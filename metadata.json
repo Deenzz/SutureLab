@@ -1,0 +1,8 @@
+{
+  "name": "SutureLab 3D",
+  "description": "Interactive 3D anatomical wound toilet, suturing techniques, differential diagnosis, and clinical triage training platform grounded in surgical manuals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
